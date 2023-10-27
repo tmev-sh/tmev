@@ -1,0 +1,17 @@
+node_modules
+.DS_Store
+package-lock.json
+yarn.lock
+cache/
+!bin/cache/
+!bin/cache/lib/
+!bin/cache/script/
+!bin/cache/src/
+out/
+#!/bin/data/**/broadcast
+#/bin/data/**/broadcast/*/31337/
+#/bin/data/**/broadcast/**/dry-run/
+broadcast
+docs/
+.env
+tmev-lock.json

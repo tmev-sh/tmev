@@ -1,0 +1,1 @@
+[{"type":"feature","note":"Better gas reports"},{"type":"feature","note":"Ensure deployment transactions are synchronous"},{"type":"feature","note":"Retry failed deployments"},{"type":"fix","note":"Fixed maxless and taxless deployments"}]

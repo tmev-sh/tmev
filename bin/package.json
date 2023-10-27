@@ -1,0 +1,42 @@
+{
+  "name": "tmev",
+  "version": "0.6.2",
+  "description": "",
+  "main": "bundle.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "bin": {
+    "tmev": "./bundle.min.js"
+  },
+  "dependencies": {
+    "@truffle/hdwallet-provider": "2.1.13",
+    "axios": "1.4.0",
+    "bip39": "3.1.0",
+    "boxen": "7.1.1",
+    "chalk": "5.3.0",
+    "cli-spinners": "2.9.0",
+    "clui": "0.3.6",
+    "fs-extra": "11.1.1",
+    "inquirer": "9.2.8",
+    "inquirer-date-prompt": "2.0.1",
+    "inquirer-datepicker-prompt": "0.4.3",
+    "inquirer-file-tree-selection-prompt": "1.0.19",
+    "inquirer-interrupted-prompt": "2.0.1",
+    "inquirer-press-to-continue": "1.2.0",
+    "inquirer-search-list": "1.2.6",
+    "inquirer-table-prompt": "0.2.1",
+    "inquirer-tree-prompt": "1.1.2",
+    "log-symbols": "5.1.0",
+    "ora": "6.3.1",
+    "rollup-plugin-obfuscator": "1.0.3",
+    "systeminformation": "5.18.10",
+    "terminal-kit": "3.0.0",
+    "web3": "4.0.3",
+    "web3-providers-ipc": "4.0.3",
+    "yargs": "13.2"
+  },
+  "type": "module"
+}
